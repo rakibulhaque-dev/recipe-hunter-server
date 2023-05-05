@@ -1,0 +1,197 @@
+[
+  {
+    "chef_id": "ahsgdyhOAJSKJaokjsjashdjjhsa434576",
+    "chef_name": "Alice Hook",
+    "years_of_experience": 6,
+    "num_recipes": 3,
+    "num_likes": 960,
+    "chef_img": "https://africanamericanchefshalloffame.org/wp-content/uploads/2016/12/stanley-jackson-circle-300x300.png",
+    "recipe": [
+      {
+        "recipe_name": "Jackfruit Burger",
+        "img": "https://as2.ftcdn.net/v2/jpg/02/93/63/01/1000_F_293630160_v9j6Rmzw6TP5ytZSJRerjN6VtQTVNPg8.jpg",
+        "price": 500,
+        "ingredients": "Jackfruit, Chicken",
+        "num_likes": 100032300
+
+      },
+      {
+        "recipe_name": "Vegan Stuffed Peppers",
+        "img": "https://as2.ftcdn.net/v2/jpg/00/23/82/07/1000_F_23820703_67yrNsZmPsEOQbpqcTJdhA8BY72Q2lyy.jpg",
+        "price": 800,
+        "ingredients": "Bell peppers, quinoa, black beans, tomato sauce, spices",
+        "num_likes": 32300
+      },
+      {
+        "recipe_name": "Spicy Peanut Noodles",
+        "img": "https://as2.ftcdn.net/v2/jpg/05/85/58/75/1000_F_585587528_dPUWnLQgisHNHSK0Ecje5BznXspcymJE.jpg",
+        "price": 600,
+        "ingredients": "Whole wheat spaghetti, peanut butter, soy sauce, sriracha, veggies",
+        "num_likes": 6500
+      },
+      {
+        "recipe_name": "Tofu and Broccoli Stir-Fry",
+        "img":"https://as2.ftcdn.net/v2/jpg/05/67/86/27/1000_F_567862721_vTVutxjzedPzOOF6Zo9qqjKNnImmILWK.jpg",
+        "price": 700,
+        "ingredients": "Tofu, broccoli, garlic, ginger, soy sauce, brown rice",
+        "num_likes": 6700
+      }
+  
+    ]
+  },
+  {
+    "chef_id": "ahsgdyhOAJSKJaokjsjashdjjhsa4345399",
+    "chef_name": "Jack Context",
+    "years_of_experience": 5,
+    "num_recipes": 3,
+    "num_likes": 360,
+    "chef_img": "https://123ce.com/wp-content/uploads/2019/07/iStock-544353724-e1562099629995-700x559.jpg",
+    "recipe":[
+      {
+        "recipe_name": "Chicken Alfredo",
+        "price": 1500,
+        "img": "https://as2.ftcdn.net/v2/jpg/05/57/75/55/1000_F_557755503_KtE5zePCVnnNurnCIM6WwiZ7en8zskU4.jpg",
+        "ingredients": "Chicken, fettuccine, cream, parmesan cheese, garlic",
+        "num_likes": 609900
+      },
+      {
+        "recipe_name": "Beef Stroganoff",
+        "price": 1800,
+        "img": "https://as1.ftcdn.net/v2/jpg/01/33/76/12/1000_F_133761269_cAFzlkdapOkTqD6ItIVsMNxY1KCSSrVu.jpg",
+        "ingredients": "Beef, egg noodles, sour cream, mushrooms, onion",
+        "num_likes": 6056
+      },
+      {
+        "recipe_name": "Lobster Bisque",
+        "price": 2200,
+        "img": "https://as1.ftcdn.net/v2/jpg/04/70/52/88/1000_F_470528879_kixXoKdyN4mr63mx71bhheIRsi7500jZ.jpg",
+        "ingredients": "Lobster, cream, butter, onion, celery, carrots",
+        "num_likes": 603412
+      }
+    ]
+  },
+  {
+    "chef_id": "ahsgdyhOAJSKJaokjsjashdjjhsa43453984",
+    "chef_name": "John AP",
+    "years_of_experience": 7,
+    "num_recipes": 3,
+    "num_likes": 900,
+    "chef_img": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall_141793-33303.jpg?w=740&t=st=1683102103~exp=1683102703~hmac=466af6b3bdfb787cb28b2536957fa41e17ea1098c2dbcd47d9ed69b13c8ebb04",
+    "recipe":[
+      {
+        "recipe_name": "Caprese Salad",
+        "price": 900,
+        "img": "https://as2.ftcdn.net/v2/jpg/03/49/80/47/1000_F_349804792_sigSQ1Km3APtBeISefBQBHTZcy7GWwgF.jpg",
+        "ingredients": "Tomatoes, mozzarella cheese, basil, olive oil, balsamic vinegar",
+        "num_likes": 425400
+      },
+      {
+        "recipe_name": "Pesto Pasta",
+        "price": 1200,
+        "img": "https://as2.ftcdn.net/v2/jpg/00/56/77/93/1000_F_56779303_svOhR1xRJHmcQAsK1YYwtYyBIqk7WGfF.jpg",
+        "ingredients": "Pasta, basil pesto, cherry tomatoes, garlic, parmesan cheese",
+        "num_likes": 64300
+      },
+      {
+        "recipe_name": "Mushroom Risotto",
+        "price": 1500,
+        "img": "https://as2.ftcdn.net/v2/jpg/01/37/51/85/1000_F_137518530_ha2QvvJkYdPmyxBQJfwLXeNeiVlVM4Hu.jpg",
+        "ingredients": "Arborio rice, mushrooms, onion, garlic, parmesan cheese, chicken broth",
+        "num_likes": 603330
+      }
+    ]
+  },
+  {
+    "chef_id": "ahsgdyhOAJSKJaokjsjashdjjhsa43443345",
+    "chef_name": "Messi Leo",
+    "years_of_experience": 2,
+    "num_recipes": 3,
+    "num_likes": 500,
+    "chef_img": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683102190~exp=1683102790~hmac=458999b0c52a71f5fbb74d6e1d99e08f3749ec8bbe08b5f71c9b121c8cd7e8e1",
+    "recipe":[
+      {
+        "recipe_name": "Ster Bisque",
+        "price": 2200,
+        "img": "https://as1.ftcdn.net/v2/jpg/01/91/14/48/1000_F_191144865_DHxwDermqb4I5rHejnSMiv8gk6TJH3SK.jpg",
+        "ingredients": "Lobster, cream, butter, onion, celery, carrots",
+        "num_likes": 4033200
+      },
+      {
+        "recipe_name": "Grilled Salmon",
+        "price": 2000,
+        "img": "https://as1.ftcdn.net/v2/jpg/03/25/35/08/1000_F_325350805_D8PVU73qs1dj5TdWgm9IpuAjJ7sgHacK.jpg",
+        "ingredients": "Salmon, lemon, garlic, olive oil, salt, pepper",
+        "num_likes": 600530
+      },
+      {
+        "recipe_name": "Chocolate Lava Cake",
+        "price": 800,
+        "img": "https://as2.ftcdn.net/v2/jpg/02/08/83/45/1000_F_208834505_yyyheMXDTzUlXW5CZT5SINxAOGPJjeTX.jpg",
+        "ingredients": "Chocolate, butter, eggs, sugar, flour",
+        "num_likes": 600540
+      }
+    ]
+  },
+  {
+    "chef_id": "ahsgdyhOAJSKJaokjsjashdjjhsa4356445",
+    "chef_name": "Alison B",
+    "years_of_experience": 3,
+    "num_recipes": 3,
+    "num_likes": 800 ,
+    "chef_img": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=740&t=st=1683102236~exp=1683102836~hmac=23c2c527034c30524e039606ecba5e79c5d18f5d5667f45ed3b2b34c1823d4a8",
+    "recipe":[
+      {
+        "recipe_name": "Grilled Salmon with Lemon Butter",
+        "price": 1500,
+        "img": "https://as1.ftcdn.net/v2/jpg/01/68/28/28/1000_F_168282803_99kM6gKgMin0JLVnrot9NTuJ4c6YAQiA.jpg",
+        "ingredients": "Salmon fillet, lemon, butter, garlic, herbs",
+        "num_likes": 100670
+      },
+      {
+        "recipe_name": "Classic Lasagna",
+        "price": 1800,
+        "img": "https://as2.ftcdn.net/v2/jpg/00/93/64/59/1000_F_93645976_8b4fpkVliuvOJE58YiV75yCWGEe9luPj.jpg",
+        "ingredients": "Ground beef, lasagna noodles, ricotta cheese, marinara sauce",
+        "num_likes": 500860
+      },
+      {
+        "recipe_name": "Crème Brûlée",
+        "price": 2200,
+        "img": "https://as1.ftcdn.net/v2/jpg/05/92/28/28/1000_F_592282880_0F4RnndBUTqoZwd8gaCo4VRaqF77J7bB.jpg",
+        "ingredients": "Heavy cream, sugar, egg yolks, vanilla extract",
+        "num_likes": 300890
+      }
+    ]
+  },
+  {
+    "chef_id": "ahsgdyhOAJSKJaokjsjashdjjhsa4349565",
+    "chef_name": "Alice Silva",
+    "years_of_experience": 5,
+    "num_recipes": 3,
+    "num_likes": 700,
+    "chef_img": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?w=740&t=st=1683102282~exp=1683102882~hmac=c99ed3628fbd5ee2c8305482b7b618a8d45656bf7c34609d403c93b28e57ca9a",
+    "recipe":[
+      {
+        "recipe_name": "Korean Fried Chicken",
+        "price": 1500,
+        "img": "https://as1.ftcdn.net/v2/jpg/05/02/04/96/1000_F_502049605_FzZzWI4aT9TJzkjw9GWZ2Tkv5F6PPDDY.jpg",
+        "ingredients": "Chicken wings, soy sauce, gochujang, garlic, ginger",
+        "num_likes": 900710
+      },
+      {
+        "recipe_name": "Bibimbap",
+        "price": 1800,
+        "img": "https://as2.ftcdn.net/v2/jpg/05/75/45/93/1000_F_575459349_Ppe3XcCNTRO4D2rH5JYEQQME93tekrdz.jpg",
+        "ingredients": "Rice, beef, spinach, bean sprouts, carrots, egg",
+        "num_likes": 801400
+      },
+      {
+        "recipe_name": "Kimchi Fried Rice",
+        "price": 1200,
+        "img": "https://as1.ftcdn.net/v2/jpg/04/07/82/78/1000_F_407827875_GHKcBbSjfAstausJwLW3t9PEsBiRcYmi.jpg",
+        "ingredients": "Rice, kimchi, pork belly, scallions, sesame oil",
+        "num_likes": 600600
+      }
+    ]
+  }
+]
